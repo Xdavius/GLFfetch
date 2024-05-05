@@ -1,5 +1,5 @@
 #!/bin/bash
-source ~/.config/fastfetch/GLFfetch/scripts/vars.sh
+source /opt/GLFfetch/scripts/vars.sh
 
 if [[ $percentage -lt 100 ]]
 then
